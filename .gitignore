@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+mobile/google-services.json
+tv/google-services.json

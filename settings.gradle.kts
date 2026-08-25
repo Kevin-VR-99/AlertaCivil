@@ -23,4 +23,7 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "AlertaCivil"
-include(":app")
+include(":core-model")
+include(":core-data")
+include(":mobile")
+include(":tv")
