@@ -15,7 +15,7 @@
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="AlertaCivil TV"
-
+        android:banner="@drawable/app_banner"
         android:supportsRtl="true"
         android:theme="@style/Theme.AlertaCivilTv">
 
